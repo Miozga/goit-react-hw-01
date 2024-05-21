@@ -1,5 +1,5 @@
+import user from './Profile/user.json';
 import Profile from './components/Profile/Profile';
-import user from './path/to/user.json';
 
 const App = () => (
   <div>
