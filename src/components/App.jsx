@@ -1,5 +1,5 @@
-import FriendList from './FriendList/FriendList';
-import friends from './FriendsList/friends';
+import friends from './FriendsList/Friends.json';
+import FriendList from './FriendsList/FriendsList';
 
 import Profile from './Profile/Profile';
 import user from './Profile/user';
