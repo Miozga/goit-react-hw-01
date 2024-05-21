@@ -1,7 +1,9 @@
 import FriendList from './FriendList/FriendList';
 import friends from './FriendsList/friends';
+
 import Profile from './Profile/Profile';
 import user from './Profile/user';
+
 import Statistics from './Statistics/Statistics';
 import statsData from './Statistics/data';
 
