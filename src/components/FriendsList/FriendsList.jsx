@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-import './FriendList.css';
 import FriendListItem from './FriendListItem';
 
 const FriendList = ({ friends }) => {
@@ -27,8 +26,5 @@ FriendList.propTypes = {
     })
   ).isRequired,
 };
-
-export default FriendList;
-
 
 export default FriendList;
