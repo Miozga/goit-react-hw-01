@@ -1,4 +1,4 @@
-import friends from './FriendsList/Friends.json';
+import friends from './FriendsList/Friends';
 import FriendList from './FriendsList/FriendsList';
 import TransactionHistory from './HistoryTransaction/TransactionHistory';
 import transactions from './HistoryTransaction/transactions';
